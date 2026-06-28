@@ -1,5 +1,2 @@
 #!/bin/bash
-
-python3 node.py "$@"
-
-# End of file
+python3 -u blockchain_node.py "$@"
